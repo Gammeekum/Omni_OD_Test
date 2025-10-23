@@ -1,2 +1,2 @@
 # Omni_OD_Test
-Testing OImnichannel Operator Dashboard 
+Testing Omnichannel Operator Dashboard 
